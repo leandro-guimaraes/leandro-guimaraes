@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leandro-guimaraes
 - 👀 I’m interested in programação
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# no programa Entra21 da Blusoft
 - 💞️ I’m looking to collaborate on Projetos  de C#
 - 📫 How to reach me  email : olamundo.ti@gmail.com
 
